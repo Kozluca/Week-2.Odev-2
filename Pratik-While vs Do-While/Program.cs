@@ -34,6 +34,7 @@ namespace Pratik_While_vs_Do_While
 
             } while (sayac2 <= limit4);
             Console.ReadKey();
+            // WHİLE KOŞUL YANLIŞ İSE ÇALIŞMAZ    DO-WHİLE KOŞUL YANLIŞ OLSA BİLE 1 KERE ÇALIŞIR ÇÜNKÜ KOŞUL SONDA YER ALIR.
             #endregion
         }
     }
