@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week-2.Odev-2", "Week-2.Odev-2\Week-2.Odev-2.csproj", "{1EADBAFA-0114-4B88-9F13-A4ABD7FD9A88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week-2.1-20arasındaki sayilar", "week-2.1-20arasındaki sayilar\week-2.1-20arasındaki sayilar.csproj", "{4DEC09B1-690A-44EA-8620-7DFAF486FEFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week-2.1-20arasındaki çift sayılar", "Week-2.1-20arasındaki çift sayılar\Week-2.1-20arasındaki çift sayılar.csproj", "{CC7B5B5D-3641-43E4-B564-E16303D9E1A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week-2.50-150 arasındaki sayiların toplamı", "Week-2.50-150 arasındaki sayiların toplamı\Week-2.50-150 arasındaki sayiların toplamı.csproj", "{1AAD623E-220F-4398-935A-909DCB7A6D9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week-2.1ile120 arasındaki tek ve öift sayiların toplamı", "Week-2.1ile120 arasındaki tek ve öift sayiların toplamı\Week-2.1ile120 arasındaki tek ve öift sayiların toplamı.csproj", "{9D4EC3AE-50A9-4A02-8D06-828F597EF1D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EADBAFA-0114-4B88-9F13-A4ABD7FD9A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EADBAFA-0114-4B88-9F13-A4ABD7FD9A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EADBAFA-0114-4B88-9F13-A4ABD7FD9A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EADBAFA-0114-4B88-9F13-A4ABD7FD9A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DEC09B1-690A-44EA-8620-7DFAF486FEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEC09B1-690A-44EA-8620-7DFAF486FEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEC09B1-690A-44EA-8620-7DFAF486FEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEC09B1-690A-44EA-8620-7DFAF486FEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC7B5B5D-3641-43E4-B564-E16303D9E1A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7B5B5D-3641-43E4-B564-E16303D9E1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7B5B5D-3641-43E4-B564-E16303D9E1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7B5B5D-3641-43E4-B564-E16303D9E1A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AAD623E-220F-4398-935A-909DCB7A6D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AAD623E-220F-4398-935A-909DCB7A6D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AAD623E-220F-4398-935A-909DCB7A6D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AAD623E-220F-4398-935A-909DCB7A6D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D4EC3AE-50A9-4A02-8D06-828F597EF1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D4EC3AE-50A9-4A02-8D06-828F597EF1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D4EC3AE-50A9-4A02-8D06-828F597EF1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D4EC3AE-50A9-4A02-8D06-828F597EF1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A1C8BE6-4644-455A-8B21-B0F7E8D271F6}
+	EndGlobalSection
+EndGlobal
