@@ -37,7 +37,7 @@ namespace Pratik_Ilk_metot_Uygulaması
             Kalan();
             Carpma(15, 5);
             Isimsoyisimyaz("ÖMER", "KOZLUCA");
-            Console.ReadKey();
+            Console.ReadKey ();
         }
     }
 
