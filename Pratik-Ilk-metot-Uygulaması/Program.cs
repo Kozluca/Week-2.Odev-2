@@ -11,7 +11,7 @@ namespace Pratik_Ilk_metot_Uygulaması
     {
         static public void SARKI()
         {
-            Console.WriteLine("    YILDIZLAR YERİNDE GÜZEL BIRAK DURSUN     "); //
+            Console.WriteLine("    YILDIZLAR YERİNDE GÜZEL BIRAK DURSUN     "); 
         }
         static public int Kalan()
         {
