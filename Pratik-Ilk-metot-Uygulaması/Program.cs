@@ -13,7 +13,7 @@ namespace Pratik_Ilk_metot_Uygulaması
         {
             Console.WriteLine("    YILDIZLAR YERİNDE GÜZEL BIRAK DURSUN     ");
         }
-        static int Kalan()
+        static public int Kalan()
         {
             Random rnd = new Random();
             int rastgele = rnd.Next(100);
@@ -21,12 +21,12 @@ namespace Pratik_Ilk_metot_Uygulaması
             Console.WriteLine("Kalan sayı :" + (rastgele / 2));
             return rastgele / 2;
         }
-        static int Carpma(int a, int b)
+        static public int Carpma(int a, int b)
         {
             Console.WriteLine("ÇARPMA: " + (a * b));
             return a * b;
         }
-        static void Isimsoyisimyaz(string isim, string soyisim)
+        static public void Isimsoyisimyaz(string isim, string soyisim)
         {
 
             Console.WriteLine("İsim: " + isim + " Soy isim: " + soyisim);
