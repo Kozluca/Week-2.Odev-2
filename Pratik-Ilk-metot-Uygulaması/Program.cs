@@ -33,9 +33,9 @@ namespace Pratik_Ilk_metot_Uygulaması
         }
         static void Main(string[] args)
         {
-            Kalan();
-            Carpma(12, 5);
             SARKI();
+            Kalan();
+            Carpma(15, 5);
             Isimsoyisimyaz("ÖMER", "KOZLUCA");
             Console.ReadKey();
         }
